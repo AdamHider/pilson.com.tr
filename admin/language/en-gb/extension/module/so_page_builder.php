@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']    		= 'So Page Builder';
-$_['heading_title_page']    	= 'So Page Builder <b style="font-size:11px; background:#aaa; color:#fff; padding: 3px;font-weight:normal">version 1.5.0</b>';
+$_['heading_title_page']    	= 'So Page Builder <b style="font-size:11px; background:#aaa; color:#fff; padding: 3px;font-weight:normal">version 1.2.2</b>';
 
 // Text
 $_['text_module']               = 'Modules';
@@ -129,6 +129,9 @@ $_['link_hover_color']					= 'Link Hover Color';
 $_['heading_color']						= 'Heading Color';
 $_['text_responsive_layout']			= 'Responsive Layout';
 
+$_['text_select_option']				= '--- Select an option ---';
+
+
 $_['text_style_width_column'] 			= 'Style Width For Column';
 $_['text_config_shortcode'] 			= 'Config Shortcode';
 // Entry
@@ -154,6 +157,8 @@ $_['entry_icon_image']     = 'Module Image: ';
 $_['entry_addition_class'] = 'Add class: ';
 
 $_['entry_help_layout']    ='Create Module layouts by accessing <b>System > Design > Layouts</b>';
+$_['entry_button_import']			= 'Import This';
+$_['entry_button_export']			= 'Export This';
 
 // Shortcode 
 $_['group_all']    					= 'All';
@@ -840,3 +845,4 @@ $_['error_permission'] 			= 'Warning: You do not have permission to modify featu
 $_['error_name']       			= 'Module Name must be between 3 and 64 characters!';
 $_['error_head_name']       	= 'Module Head Name must be between 3 and 64 characters!';
 $_['error_import_data']         = 'Warning: Please select theme want import !';
+$_['error_import']              = 'Please import file!';

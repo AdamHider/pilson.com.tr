@@ -28,7 +28,7 @@ $_['column_action']			= 'Action';
 $_['tab_data']				= 'Content';
 $_['tab_related']			= 'Related';
 $_['tab_design']			= 'Design';
-
+$_['tab_seo']				= 'Seo';
 // Help
 $_['help_title']            = 'Article Title must be unique.';
 $_['help_author_name']      = 'Author name must be select on autocomplete.';

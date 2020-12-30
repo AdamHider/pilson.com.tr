@@ -3,7 +3,7 @@ $_['heading_title_normal']  = 'Theme Control Panel ';
 $_['heading_title'] 		= '<i class="fa fa-wrench" style="    font-size: 14px;margin: 0 5px;padding: 5px;background: #56a03e;color: white; border-radius: 3px;"></i></i> Theme Control Panel';
 $_['text_module']     		= 'Modules';
 $_['module_intro'] 			= 'Edit So Theme features here';
-$_['theme_version']         = 'Version 1.2.0';
+$_['theme_version']         = 'Version 1.2.1';
 
 // Text
 $_['text_success']        = 'Success: You have modified the module!';

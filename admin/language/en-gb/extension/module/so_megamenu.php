@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']    = 'So Megamenu';
-$_['heading_title_so']    = 'So Megamenu <b style="font-size:10px; background:#aaa; color:#fff; padding: 3px;font-weight:normal">version 2.2.0</b>';
+$_['heading_title_so']    = 'So Megamenu <b style="font-size:10px; background:#aaa; color:#fff; padding: 3px;font-weight:normal">version 3.0.2</b>';
 $_['entry_button_clear_cache']  = 'Flush Cache';
 $_['text_success_remove']       = 'Success: Flush SO Cache successfully!';
 // Text
@@ -10,11 +10,13 @@ $_['text_button_add_module']      		= ' Add Module';
 $_['text_creat_new_item']      			= 'Creat new item';
 $_['text_expand_all']      				= 'Expand All';
 $_['text_collapse_all']      			= 'Collapse All';
+$_['text_import']                       = 'Import';
+$_['text_export']                       = 'Export';
 $_['text_edit_item']      				= 'Edit item (ID:';
 $_['text_name']      					= 'Name';
 $_['text_description']      			= 'Description';
 $_['text_label_item']      				= 'Label Item';
-$_['text_icon_font']      				= 'Icon font';
+$_['text_icon_font']      				= 'Icon font (Eg: fa fa-user)';
 $_['text_type_link']      				= 'Type Link';
 $_['text_categories']      				= 'Categories';
 $_['text_all_categories']      			= 'All Categories';
@@ -58,6 +60,7 @@ $_['text_success_menu_item_delete']    	= 'Success: You have modified menu item 
 $_['text_success_menu_item_add']    	= 'Success: You have add menu item manager!';
 $_['text_success_menu_item_edit']    	= 'Success: You have edit menu item manager!';
 $_['text_edit']        					= 'Edit So Megamenu Module';
+$_['text_export']        					= 'Export';
 
 $_['entry_display_title_module']     		= 'Show Title';
 $_['entry_menu_manager']     	= 'Menu Manager';
@@ -141,6 +144,7 @@ $_['error_width']      = 'Width required!';
 $_['error_height']     = 'Height required!';
 $_['error_description_name']     = 'Description required!';
 $_['error_name']     = 'Name required!';
+$_['error_import']     = 'Please import file!';
 
 // Heading Goes here:
 //$_['heading_title']    = 'So mega menu';

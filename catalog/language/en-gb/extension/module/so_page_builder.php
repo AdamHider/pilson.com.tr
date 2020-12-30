@@ -1,6 +1,6 @@
 <?php
 // Heading
-//$_['heading_title'] = 'So Page builder';
+$_['heading_title'] = 'So Page builder';
 
 // Text
 $_['text_tax']      		= 'Ex Tax:';
